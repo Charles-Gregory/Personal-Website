@@ -1,0 +1,23 @@
+body{
+    background-color: #1D1F21;
+}
+
+.title{
+    position: relative;
+    margin: auto;
+    width: 820px;
+    /*border: 1px lightseagreen solid;*/
+}
+
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 100px;
+    margin: 0px;
+    color: white;
+}
+
+p{
+     font-family: 'Montserrat', sans-serif;
+    font-size: 10;
+    color: white;
+}
